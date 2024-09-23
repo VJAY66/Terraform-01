@@ -13,9 +13,9 @@ variable "common_tags" {
 }
 
 variable "zone_id" {
-    default = "Z09912121MS725XSKH1TG"
+    default = "Z07461232BLAHGSRPWWSO"
 }
 
 variable "domain_name" {
-    default = "daws81s.online"
+    default = "vjay.online"
 }
